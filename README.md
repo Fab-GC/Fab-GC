@@ -17,7 +17,7 @@
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 &nbsp;
-<br>
+<br><br>
 
 <p> 
 Ingeniero en Tecnologías de la Información y Comunicación, entusiasta de la programación y el desarrollo de software. Poseo experiencia intermedia en diversos lenguajes y herramientas de desarrollo. Me destaco por mi capacidad para estructurar algoritmos, comprender lógica computacional y aprender de forma autónoma. Me motiva aportar soluciones prácticas e innovadoras, siempre enfocado en la mejora continua y el trabajo en equipo.
