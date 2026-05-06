@@ -98,4 +98,8 @@ Ingeniero en Tecnologías de la Información y Comunicación, entusiasta de la p
    Contactame
 </h3>
 
+[![Email](https://img.shields.io/badge/Email-c4rl0shdgg%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:c4rl0shdgg@gmail.com)
+
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-+52%2055%203030%207343-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/525530307343)
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
