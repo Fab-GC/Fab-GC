@@ -12,19 +12,21 @@
 ---
 
 <h3>
-   Sobre mi
+   <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 50px></picture> Sobre mi
 </h3>
 
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 <br>
-
+<p> 
 Ingeniero en Tecnologías de la Información y Comunicación, entusiasta de la programación y el desarrollo de software. Poseo experiencia intermedia en diversos lenguajes y herramientas de desarrollo. Me destaco por mi capacidad para estructurar algoritmos, comprender lógica computacional y aprender de forma autónoma. Me motiva aportar soluciones prácticas e innovadoras, siempre enfocado en la mejora continua y el trabajo en equipo.
+</p>
 
 <br>
 
 ---
 
 <h3> 
-   Habilidades
+   <picture><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35px"></picture> Habilidades
 </h3>
 
 <br>
@@ -44,7 +46,7 @@ Ingeniero en Tecnologías de la Información y Comunicación, entusiasta de la p
 ---
 
 <h3> 
-   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="20"> Lenguajes
+   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Lenguajes
    
 </h3>
 
@@ -57,7 +59,7 @@ Ingeniero en Tecnologías de la Información y Comunicación, entusiasta de la p
 <br>
 
 <h3> 
-   Software y herramientas
+   <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 50px></picture> Software y herramientas
 </h3>
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -75,7 +77,7 @@ Ingeniero en Tecnologías de la Información y Comunicación, entusiasta de la p
 ---
 
 <h3> 
-   Certificaciones
+   <picture><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="50" /></picture>Certificaciones
 </h3>
 
 - 🎓 Diseñador de experiencia de usuario (UX)  
@@ -95,7 +97,7 @@ Ingeniero en Tecnologías de la Información y Comunicación, entusiasta de la p
 ---
 
 <h3> 
-   Contactame
+   Contactame 🤝
 </h3>
 
 [![Email](https://img.shields.io/badge/Email-c4rl0shdgg%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:c4rl0shdgg@gmail.com)
