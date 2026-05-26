@@ -54,7 +54,7 @@ Ingeniero en Tecnologías de la Información y Comunicación, entusiasta de la p
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,cpp,html,css,js,php,java,kotlin&perline=4" />
+    <img src="https://skillicons.dev/icons?i=py,cs,cpp,html,css,js,php,java,kotlin&perline=4" />
   </a>
 </p>
 
