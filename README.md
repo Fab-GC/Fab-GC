@@ -20,7 +20,8 @@
 <br><br>
 
 <p> 
-Ingeniero en Tecnologías de la Información y Comunicación, entusiasta de la programación y el desarrollo de software. Poseo experiencia intermedia en diversos lenguajes y herramientas de desarrollo. Me destaco por mi capacidad para estructurar algoritmos, comprender lógica computacional y aprender de forma autónoma. Me motiva aportar soluciones prácticas e innovadoras, siempre enfocado en la mejora continua y el trabajo en equipo.
+Ingeniero en Tecnologías de la Información y Comunicación con experiencia en desarrollo de aplicaciones, mantenimiento de sistemas y trabajo con tecnologías orientadas a soluciones reales. He participado en proyectos relacionados con desarrollo web, bases de datos y aplicaciones móviles, fortaleciendo habilidades en lógica de programación, resolución de problemas y adaptación a nuevos entornos tecnológicos. Me caracterizo por aprender rápidamente, trabajar de forma organizada y aportar soluciones funcionales tanto de manera individual como en equipo.
+
 </p>
 
 <br>
